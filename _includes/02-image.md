@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Slav Kurochkin](https://instagram.fatl1-2.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/121823890_4476245455783434_9047657763942471175_n.jpg?_nc_ht=instagram.fatl1-2.fna.fbcdn.net&_nc_cat=106&_nc_ohc=zAEtVsP2zpsAX-q8q3T&_nc_tp=15&oh=a35548b83c1c2ecd946e3b1574c0c087&oe=5FB6E10D)
